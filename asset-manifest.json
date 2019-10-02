@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b458ab9c.chunk.css",
-    "main.js": "/static/js/main.49340736.chunk.js",
-    "main.js.map": "/static/js/main.49340736.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.55f601b8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.55f601b8.js.map",
-    "static/js/2.e46aad20.chunk.js": "/static/js/2.e46aad20.chunk.js",
-    "static/js/2.e46aad20.chunk.js.map": "/static/js/2.e46aad20.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b72c1f780e61b4db69aa7b04dbd36115.js": "/precache-manifest.b72c1f780e61b4db69aa7b04dbd36115.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b458ab9c.chunk.css.map": "/static/css/main.b458ab9c.chunk.css.map",
-    "static/media/fishing-boat.jpg": "/static/media/fishing-boat.c82e7b44.jpg",
-    "static/media/net.jpg": "/static/media/net.9295efa4.jpg"
+    "main.css": "/fish/static/css/main.b458ab9c.chunk.css",
+    "main.js": "/fish/static/js/main.b326b3a5.chunk.js",
+    "main.js.map": "/fish/static/js/main.b326b3a5.chunk.js.map",
+    "runtime-main.js": "/fish/static/js/runtime-main.caf5760c.js",
+    "runtime-main.js.map": "/fish/static/js/runtime-main.caf5760c.js.map",
+    "static/js/2.e14a9189.chunk.js": "/fish/static/js/2.e14a9189.chunk.js",
+    "static/js/2.e14a9189.chunk.js.map": "/fish/static/js/2.e14a9189.chunk.js.map",
+    "index.html": "/fish/index.html",
+    "precache-manifest.e62ebdc669f7d0714855859f722fb669.js": "/fish/precache-manifest.e62ebdc669f7d0714855859f722fb669.js",
+    "service-worker.js": "/fish/service-worker.js",
+    "static/css/main.b458ab9c.chunk.css.map": "/fish/static/css/main.b458ab9c.chunk.css.map",
+    "static/media/fishing-boat.jpg": "/fish/static/media/fishing-boat.c82e7b44.jpg",
+    "static/media/net.jpg": "/fish/static/media/net.9295efa4.jpg"
   }
 }
