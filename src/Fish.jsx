@@ -56,8 +56,11 @@ function sustainabilityColor(number) {
   }
 }
 
-function sustainabilitySize(min, max) {
-  const number = Math.round(Math.random() * (+max - +min) + +min);
+function random(worst, best) {
+  return Math.round(Math.random() * (+best - +worst) + +worst);
+}
+
+function sustainabilitySize(number) {
 
   switch (number) {
     case 1:
@@ -78,9 +81,12 @@ function sustainabilitySize(min, max) {
 export default function Fish(props) {
   const { fish } = props;
   const { bucket, setBucket } = useContext(CatchContext);
+  const size = random(fish.worst, fish.best);
+  const iconSize = sustainabilitySize(size);
 
   const addFishToBucket = () => {
-    bucket.push(fish);
+    const newFish = {...fish, size}
+    bucket.push(newFish);
     const newBucket = [...bucket];
     setBucket(newBucket);
   };
@@ -91,7 +97,7 @@ export default function Fish(props) {
       <FontAwesomeIcon
         icon={faFish}
         color={sustainabilityColor(fish.rating)}
-        size={sustainabilitySize(fish.min, fish.max)}
+        size={iconSize}
       />
       {fish.subtitle && <FishInfo>{`"${fish.subtitle}"`}</FishInfo>}
     </FishComponent>

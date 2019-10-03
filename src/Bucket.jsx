@@ -34,17 +34,17 @@ function sustainabilityColor(number) {
 }
 
 export default function Bucket() {
-  // const { fish } = props;
-  // const { bucket, setBucket } = useContext(CatchContext);
-  // const { bucket } = useContext(CatchContext);
   const fishes = [];
   const { bucket } = useContext(CatchContext);
-  bucket.forEach((fish) => {
+  for(let i = 0; i < bucket.length; i++) {
+    const fish = bucket[i];
     fishes.push(<FontAwesomeIcon
       icon={faFish}
+      size="2x"
       color={sustainabilityColor(fish.rating)}
+      key={i}
     />);
-  });
+  }
 
   return (
     <BucketContent>

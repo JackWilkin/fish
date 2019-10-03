@@ -2,135 +2,157 @@
     {
         "name": "Abalone", 
         "rating" : 1, 
-        "max" : 1, 
-        "min": 1
+        "best" : 1, 
+        "worst": 1,
+        "id": 1
     },
     {
         "name": "Anchovy", 
         "subtitle" : "anchovies",
         "rating" : 2.5, 
-        "max" : 2, 
-        "min": 3},
+        "best" : 2, 
+        "worst": 3,
+        "id": 2
+    },
     {
         "name": "Anchovy", 
         "subtitle" : "Peruvian", 
         "rating" : 4.5,
-        "max" : 4, 
-        "min": 5},
+        "best" : 4, 
+        "worst": 5,
+        "id": 3
+    },
     {
         "name": "Arctic char", 
         "rating" : 1,
-        "max" : 1, 
-        "min": 1
+        "best" : 1, 
+        "worst": 1,
+        "id": 4
     },
     {
         "name": "Basa", 
         "subtitle" : "Tra, Catfish or Vietnamese River Cobbler", 
         "rating" : 3,
-        "max" : 2, 
-        "min": 4
+        "best" : 2, 
+        "worst": 4,
+        "id": 5
     },
     {
         "name": "Bass", 
         "subtitle" : "seabass (Caught at sea)", 
         "rating" : 4.5,
-        "max" : 4, 
-        "min": 5
+        "best" : 4, 
+        "worst": 5,
+        "id": 6
     },
     {
         "name": "Bass", 
         "subtitle" : "seabass (Farmed)", 
         "rating" : 2,
-        "max" : 1, 
-        "min": 4
+        "best" : 1, 
+        "worst": 4,
+        "id": 7
     },
     {
         "name": "Bream", 
         "subtitle" : "Black or porgy or seabream", 
         "rating" : 4,
-        "max" : 3, 
-        "min": 5
+        "best" : 3, 
+        "worst": 5,
+        "id": 8
     },
     {
         "name": "Bream", 
         "subtitle" : "Gilthead (Caught at sea)", 
         "rating" : 4.5,
-        "max" : 4, 
-        "min": 5
+        "best" : 4, 
+        "worst": 5,
+        "id": 9
     },
     {
         "name": "Bream", 
         "subtitle" : "Gilthead (Farmed)", 
         "rating" : 2,
-        "max" : 1, 
-        "min": 4
+        "best" : 1, 
+        "worst": 4,
+        "id": 10
     },
     {
         "name": "Brill", 
         "rating" : 3.5,
-        "max" : 3, 
-        "min": 4
+        "best" : 3, 
+        "worst": 4,
+        "id": 11
     },
     {
         "name": "Clam", 
         "subtitle": "Manila (Farmed)", 
         "rating" : 1,
-        "max" : 1, 
-        "min": 1
+        "best" : 1, 
+        "worst": 1,
+        "id": 12
     },
     {
         "name": "Clam", 
         "subtitle": "Manila, Japanese carpet shell (Caught at sea)", 
         "rating" : 0,
-        "max" : 0, 
-        "min": 0
+        "best" : 0, 
+        "worst": 0,
+        "id": 13
     },
     {
         "name": "Clam", 
         "subtitle": "Razor, clams", 
         "rating" : 4,
-        "max" : 3, 
-        "min": 5
+        "best" : 3, 
+        "worst": 5,
+        "id": 14
     },
     {
         "name": "Cockle", 
         "rating" : 4,
-        "max" : 3, 
-        "min": 5
+        "best" : 3, 
+        "worst": 5,
+        "id": 15
     },
     {
         "name": "Cod", 
         "subtitle": "Atlantic Cod", 
         "rating" : 3,
-        "max" : 1, 
-        "min": 5
+        "best" : 1, 
+        "worst": 5,
+        "id": 16
     },
     {
         "name": "Cod", 
         "subtitle": "Pacific Cod", 
         "rating" : 2.5,
-        "max" : 1, 
-        "min": 4
+        "best" : 1, 
+        "worst": 4,
+        "id": 17
     },
     {
         "name": "Coley", 
         "subtitle": "Saithe", 
         "rating" : 2,
-        "max" : 1, 
-        "min": 3
+        "best" : 1, 
+        "worst": 3,
+        "id": 18
     },
     {
         "name": "Crab", 
         "subtitle": "brown or edible", 
         "rating" : 3,
-        "max" : 2, 
-        "min": 4
+        "best" : 2, 
+        "worst": 4,
+        "id": 19
     },
     {
         "name": "Crab", 
         "subtitle": "spider", 
         "rating" : 3.5,
-        "max" : 3, 
-        "min": 4
+        "best" : 3, 
+        "worst": 4,
+        "id": 20
     }
 ]
