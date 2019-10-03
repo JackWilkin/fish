@@ -11,7 +11,7 @@ const BucketContent = styled.div`
 function sustainabilityColor(number) {
   switch (number) {
     case 1:
-      return 'green';
+      return '#0b8700';
     case 1.5:
       return '#17fc03';
     case 2:
@@ -27,7 +27,7 @@ function sustainabilityColor(number) {
     case 4.5:
       return '#fc5e03';
     case 5:
-      return 'red';
+      return '#fc1a03';
     default:
       return '#bfbfbf';
   }

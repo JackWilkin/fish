@@ -90,7 +90,8 @@
         "rating" : 1,
         "best" : 1, 
         "worst": 1,
-        "id": 12
+        "id": 12,
+        "type": "clam"
     },
     {
         "name": "Clam", 
@@ -98,7 +99,8 @@
         "rating" : 0,
         "best" : 0, 
         "worst": 0,
-        "id": 13
+        "id": 13,
+        "type": "clam"
     },
     {
         "name": "Clam", 
@@ -106,14 +108,16 @@
         "rating" : 4,
         "best" : 3, 
         "worst": 5,
-        "id": 14
+        "id": 14,
+        "type": "clam"
     },
     {
         "name": "Cockle", 
         "rating" : 4,
         "best" : 3, 
         "worst": 5,
-        "id": 15
+        "id": 15,
+        "type": "clam"
     },
     {
         "name": "Cod", 
@@ -145,7 +149,8 @@
         "rating" : 3,
         "best" : 2, 
         "worst": 4,
-        "id": 19
+        "id": 19,
+        "type": "crab"
     },
     {
         "name": "Crab", 
@@ -153,7 +158,8 @@
         "rating" : 3.5,
         "best" : 3, 
         "worst": 4,
-        "id": 20
+        "id": 20,
+        "type": "crab"
     },
     {
         "name": "Crab", 
@@ -161,7 +167,8 @@
         "rating" : 3.5,
         "best" : 3, 
         "worst": 4,
-        "id": 21
+        "id": 21,
+        "type": "crab"
     },
     {
         "name": "Crawfish", 
@@ -169,7 +176,8 @@
         "rating" : 4.5,
         "best" : 4, 
         "worst": 5,
-        "id": 22
+        "id": 22,
+        "type": "lobster"
     },
     {
         "name": "Cuttlefish", 
@@ -214,7 +222,8 @@
         "rating" : 4.5,
         "best" : 4, 
         "worst": 5,
-        "id": 28
+        "id": 28,
+        "type": "eel"
     },
     {
         "name": "Eel", 
@@ -222,7 +231,8 @@
         "rating" : 5,
         "best" : 5, 
         "worst": 5,
-        "id": 29
+        "id": 29,
+        "type": "eel"
     },
     {
         "name": "Eel", 
@@ -230,7 +240,8 @@
         "rating" : 5,
         "best" : 5, 
         "worst": 5,
-        "id": 30
+        "id": 30,
+        "type": "eel"
     },
     {
         "name": "Flounder", 
