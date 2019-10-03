@@ -34,7 +34,8 @@ const Ocean = styled.div`
 `;
 
 const FishingBoat = styled.img`
-  width: 30rem;
+  max-width: 30rem;
+  width: 100%;
   margin-bottom: -15px;
 `;
 
