@@ -65,7 +65,7 @@ function App() {
   const { fishes } = context;
   const fishToDisplay = [];
   fishes.forEach((fish) => {
-    fishToDisplay.push(<Fish fish={fish} key={fish.name + fish.rating} />);
+    fishToDisplay.push(<Fish fish={fish} key={fish.id} />);
   });
   const [bucketOpen, setBucketOpen] = React.useState(false);
 

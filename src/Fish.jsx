@@ -83,6 +83,7 @@ export default function Fish(props) {
   const { bucket, setBucket } = useContext(CatchContext);
   const size = random(fish.worst, fish.best);
   const iconSize = sustainabilitySize(size);
+  const iconColor = fish.best > 5 ? 'black' : sustainabilityColor(fish.rating);
 
   const addFishToBucket = () => {
     const newFish = {...fish, size}
@@ -96,7 +97,7 @@ export default function Fish(props) {
       <span>{fish.name}</span>
       <FontAwesomeIcon
         icon={faFish}
-        color={sustainabilityColor(fish.rating)}
+        color={iconColor}
         size={iconSize}
       />
       {fish.subtitle && <FishInfo>{`"${fish.subtitle}"`}</FishInfo>}

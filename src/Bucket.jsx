@@ -40,7 +40,6 @@ export default function Bucket() {
     const fish = bucket[i];
     fishes.push(<FontAwesomeIcon
       icon={faFish}
-      size="2x"
       color={sustainabilityColor(fish.rating)}
       key={i}
     />);

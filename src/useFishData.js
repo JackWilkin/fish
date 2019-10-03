@@ -16,7 +16,7 @@ export default function useFishData() {
       const averageSize = sumOfFishSizes / allLatestFishInBucket.length;
       const temp = latestFishInBucket.rating;
 
-      if (averageSize > temp) {
+      if (averageSize > temp || averageSize == 5) {
         const fishToUpdate = fishes.filter(fish => fish.id == latestFishInBucket.id)[0];
         fishToUpdate.best = latestFishInBucket.best + latestFishInBucket.best/latestFishInBucket.worst;
       }
