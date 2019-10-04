@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d5d46e9c3a8adae3d4f76f7e1b83da7",
+    "revision": "bef8a0bf28c80492268199e06ea1e642",
     "url": "/fish/index.html"
   },
   {
-    "revision": "9b3a8a1174935ea900fa",
+    "revision": "ee8060a1c79b2e8a8261",
     "url": "/fish/static/css/main.b458ab9c.chunk.css"
   },
   {
-    "revision": "6e3ef281535c0f7721e2",
-    "url": "/fish/static/js/2.602f4fea.chunk.js"
+    "revision": "75fcc36e7df3c979bb83",
+    "url": "/fish/static/js/2.8462ed27.chunk.js"
   },
   {
-    "revision": "9b3a8a1174935ea900fa",
-    "url": "/fish/static/js/main.132502a7.chunk.js"
+    "revision": "ee8060a1c79b2e8a8261",
+    "url": "/fish/static/js/main.f20e1e5a.chunk.js"
   },
   {
     "revision": "02a12cec0a0d1bc7cb51",
@@ -226,5 +226,45 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9295efa4e8924158159257f0bf26e825",
     "url": "/fish/static/media/net.9295efa4.jpg"
+  },
+  {
+    "revision": "bbf63d169829ad5a43015d8a8b645f44",
+    "url": "/fish/static/media/octopus-0.bbf63d16.png"
+  },
+  {
+    "revision": "ae8db3dbee5834508f655aa3df1e80a9",
+    "url": "/fish/static/media/octopus-1.5.ae8db3db.png"
+  },
+  {
+    "revision": "e0d8d1b080a95c7f29aa00b789a3c98c",
+    "url": "/fish/static/media/octopus-1.e0d8d1b0.png"
+  },
+  {
+    "revision": "f76f522bf083c7d53f96e6ac7e807d0e",
+    "url": "/fish/static/media/octopus-2.5.f76f522b.png"
+  },
+  {
+    "revision": "a8896302eb7aaad9678a2ff23e70d512",
+    "url": "/fish/static/media/octopus-2.a8896302.png"
+  },
+  {
+    "revision": "382c3079b868a1e6695a04640237a72d",
+    "url": "/fish/static/media/octopus-3.382c3079.png"
+  },
+  {
+    "revision": "26cce111fe7f20814e6ab87d07dc634e",
+    "url": "/fish/static/media/octopus-3.5.26cce111.png"
+  },
+  {
+    "revision": "d2716091b9019b44a8486682b4d7a25a",
+    "url": "/fish/static/media/octopus-4.5.d2716091.png"
+  },
+  {
+    "revision": "b88d94c099f84b3f762567457de38402",
+    "url": "/fish/static/media/octopus-4.b88d94c0.png"
+  },
+  {
+    "revision": "f36cd05c813be829aaafe9e46de994fe",
+    "url": "/fish/static/media/octopus-5.f36cd05c.png"
   }
 ]);

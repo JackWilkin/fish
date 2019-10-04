@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fish/static/css/main.b458ab9c.chunk.css",
-    "main.js": "/fish/static/js/main.132502a7.chunk.js",
-    "main.js.map": "/fish/static/js/main.132502a7.chunk.js.map",
+    "main.js": "/fish/static/js/main.f20e1e5a.chunk.js",
+    "main.js.map": "/fish/static/js/main.f20e1e5a.chunk.js.map",
     "runtime-main.js": "/fish/static/js/runtime-main.caf5760c.js",
     "runtime-main.js.map": "/fish/static/js/runtime-main.caf5760c.js.map",
-    "static/js/2.602f4fea.chunk.js": "/fish/static/js/2.602f4fea.chunk.js",
-    "static/js/2.602f4fea.chunk.js.map": "/fish/static/js/2.602f4fea.chunk.js.map",
+    "static/js/2.8462ed27.chunk.js": "/fish/static/js/2.8462ed27.chunk.js",
+    "static/js/2.8462ed27.chunk.js.map": "/fish/static/js/2.8462ed27.chunk.js.map",
     "index.html": "/fish/index.html",
-    "precache-manifest.781ee5a19c200b3d12f09318fffa6ffb.js": "/fish/precache-manifest.781ee5a19c200b3d12f09318fffa6ffb.js",
+    "precache-manifest.b28ada83df8792407d2e59dae7104ee4.js": "/fish/precache-manifest.b28ada83df8792407d2e59dae7104ee4.js",
     "service-worker.js": "/fish/service-worker.js",
     "static/css/main.b458ab9c.chunk.css.map": "/fish/static/css/main.b458ab9c.chunk.css.map",
     "static/media/clam-0.png": "/fish/static/media/clam-0.766596f8.png",
@@ -62,6 +62,16 @@
     "static/media/lobster-4.5.png": "/fish/static/media/lobster-4.5.11ec5915.png",
     "static/media/lobster-4.png": "/fish/static/media/lobster-4.b32ed201.png",
     "static/media/lobster-5.png": "/fish/static/media/lobster-5.5700c94c.png",
-    "static/media/net.jpg": "/fish/static/media/net.9295efa4.jpg"
+    "static/media/net.jpg": "/fish/static/media/net.9295efa4.jpg",
+    "static/media/octopus-0.png": "/fish/static/media/octopus-0.bbf63d16.png",
+    "static/media/octopus-1.5.png": "/fish/static/media/octopus-1.5.ae8db3db.png",
+    "static/media/octopus-1.png": "/fish/static/media/octopus-1.e0d8d1b0.png",
+    "static/media/octopus-2.5.png": "/fish/static/media/octopus-2.5.f76f522b.png",
+    "static/media/octopus-2.png": "/fish/static/media/octopus-2.a8896302.png",
+    "static/media/octopus-3.png": "/fish/static/media/octopus-3.382c3079.png",
+    "static/media/octopus-3.5.png": "/fish/static/media/octopus-3.5.26cce111.png",
+    "static/media/octopus-4.5.png": "/fish/static/media/octopus-4.5.d2716091.png",
+    "static/media/octopus-4.png": "/fish/static/media/octopus-4.b88d94c0.png",
+    "static/media/octopus-5.png": "/fish/static/media/octopus-5.f36cd05c.png"
   }
 }
