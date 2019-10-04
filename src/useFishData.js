@@ -3,7 +3,7 @@ import fishData from './fish-data.json';
 
 export default function useFishData() {
   // const [fishes, setFishes] = React.useState(fishData);
-  const [fishes, setFishes] = React.useState(fishData.sort((a, b) => (a.rating > b.rating) ? 1 : -1));
+  const [fishes, setFishes] = React.useState(fishData.sort((a, b) => (a.rating >= b.rating) ? 1 : -1));
   const [bucket, setBucket] = React.useState([]);
 
   React.useEffect(() => {

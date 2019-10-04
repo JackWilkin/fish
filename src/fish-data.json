@@ -279,5 +279,264 @@
         "best" : 3, 
         "worst": 4,
         "id": 35
+    },
+    {
+        "name": "Gurnard", 
+        "subtitle": "Yellow or Tub", 
+        "rating" : 5,
+        "best" : 5, 
+        "worst": 5,
+        "id": 36
+    },
+    {
+        "name": "Haddock", 
+        "rating" : 2.5,
+        "best" : 1, 
+        "worst": 4,
+        "id": 37
+    },
+    {
+        "name": "Hake", 
+        "subtitle": "Cape", 
+        "rating" : 2,
+        "best" : 2, 
+        "worst": 2,
+        "id": 38
+    },
+    {
+        "name": "Hake", 
+        "subtitle": "European", 
+        "rating" : 1.5,
+        "best" : 1, 
+        "worst": 2,
+        "id": 39
+    },
+    {
+        "name": "Halibut", 
+        "subtitle": "Atlantic (Caught at sea)", 
+        "rating" : 5,
+        "best" : 5, 
+        "worst": 5,
+        "id": 40
+    },
+    {
+        "name": "Halibut", 
+        "subtitle": "Atlantic (Farmed)", 
+        "rating" : 2,
+        "best" : 1, 
+        "worst": 3,
+        "id": 41
+    },
+    {
+        "name": "Halibut", 
+        "subtitle": "Greenland", 
+        "rating" : 3.5,
+        "best" : 3, 
+        "worst": 4,
+        "id": 42
+    },
+    {
+        "name": "Halibut", 
+        "subtitle": "Pacific", 
+        "rating" : 2,
+        "best" : 2, 
+        "worst": 2,
+        "id": 43
+    },
+    {
+        "name": "Herring", 
+        "subtitle": "sild", 
+        "rating" : 3,
+        "best" : 1, 
+        "worst": 5,
+        "id": 44
+    },
+    {
+        "name": "John Dory", 
+        "rating" : 4,
+        "best" : 4, 
+        "worst": 4,
+        "id": 45
+    },
+    {
+        "name": "Limpet", 
+        "rating" : 2,
+        "best" : 2, 
+        "worst": 2,
+        "id": 46,
+        "type": "clam"
+    },
+    {
+        "name": "Ling", 
+        "rating" : 3.5,
+        "best" : 3, 
+        "worst": 4,
+        "id": 47
+    },
+    {
+        "name": "Lobster",
+        "subtitle": "American", 
+        "rating" : 0,
+        "best" : 0, 
+        "worst": 0,
+        "id": 48,
+        "type": "lobster"
+    },
+    {
+        "name": "Lobster",
+        "subtitle": "European", 
+        "rating" : 3,
+        "best" : 2, 
+        "worst": 4,
+        "id": 49,
+        "type": "lobster"
+    },
+    {
+        "name": "Lobster",
+        "subtitle": "Norway, Langoustine, Dublin Bay prawn or scampi", 
+        "rating" : 3.5,
+        "best" : 2, 
+        "worst": 5,
+        "id": 50,
+        "type": "lobster"
+    },
+    {
+        "name": "Lobster",
+        "subtitle": "squat", 
+        "rating" : 0,
+        "best" : 0, 
+        "worst": 0,
+        "id": 51,
+        "type": "lobster"
+    },
+    {
+        "name": "Mackerel",
+        "rating" : 1.5,
+        "best" : 1, 
+        "worst": 2,
+        "id": 52
+    },
+    {
+        "name": "Marlin",
+        "rating" : 5,
+        "best" : 5, 
+        "worst": 5,
+        "id": 53
+    },
+    {
+        "name": "Meagre",
+        "rating" : 4,
+        "best" : 4, 
+        "worst": 4,
+        "id": 54
+    },
+    {
+        "name": "Megrim",
+        "rating" : 3,
+        "best" : 2, 
+        "worst": 4,
+        "id": 55
+    },
+    {
+        "name": "Monkfish",
+        "rating" : 2.5,
+        "best" : 2, 
+        "worst": 3,
+        "id": 56
+    },
+    {
+        "name": "Mullet",
+        "subtitle": "Grey, Thicklip", 
+        "rating" : 4.5,
+        "best" : 4, 
+        "worst": 5,
+        "id": 57
+    },
+    {
+        "name": "Mullet",
+        "subtitle": "Red, Striped red mullet", 
+        "rating" : 4,
+        "best" : 3, 
+        "worst": 5,
+        "id": 58
+    },
+    {
+        "name": "Mussel",
+        "subtitle": "(Caught at sea)", 
+        "rating" : 0,
+        "best" : 0, 
+        "worst": 0,
+        "id": 59,
+        "type": "clam"
+    },
+    {
+        "name": "Mussel",
+        "subtitle": "(Farmed)", 
+        "rating" : 1,
+        "best" : 1, 
+        "worst": 1,
+        "id": 60,
+        "type": "clam"
+    },
+    {
+        "name": "Nursehound",
+        "rating" : 5,
+        "best" : 5, 
+        "worst": 5,
+        "id": 61
+    },
+    {
+        "name": "Octopus",
+        "subtitle": "Common", 
+        "rating" : 4,
+        "best" : 4, 
+        "worst": 4,
+        "id": 62,
+        "type": "octopus"
+    },
+    {
+        "name": "Octopus",
+        "subtitle": "Lesser", 
+        "rating" : 4,
+        "best" : 4, 
+        "worst": 4,
+        "id": 63,
+        "type": "octopus"
+    },
+    {
+        "name": "Oyster",
+        "subtitle": "Native, oysters (Caught at sea)", 
+        "rating" : 3.5,
+        "best" : 2, 
+        "worst": 5,
+        "id": 64,
+        "type": "clam"
+    },
+    {
+        "name": "Oyster",
+        "subtitle": "Native, oysters (Farmed)", 
+        "rating" : 1,
+        "best" : 1, 
+        "worst": 1,
+        "id": 65,
+        "type": "clam"
+    },
+    {
+        "name": "Oyster",
+        "subtitle": "Pacific, oysters (Caught at sea)", 
+        "rating" : 2,
+        "best" : 2, 
+        "worst": 2,
+        "id": 66,
+        "type": "clam"
+    },
+    {
+        "name": "Oyster",
+        "subtitle": "Pacific, oysters (Farmed)", 
+        "rating" : 1,
+        "best" : 1, 
+        "worst": 1,
+        "id": 67,
+        "type": "clam"
     }
 ]
